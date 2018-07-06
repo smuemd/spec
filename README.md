@@ -1,0 +1,1 @@
+path to specs: /keybase/private/smuemd/
